@@ -11,15 +11,28 @@ p{
     border: 5px solid #48e;
     margin-top: 30px;
 }
-
+.tagline{
+    font-weight: 300;
+    font-size: 20px;
+    color: aliceblue
+}
 .post{
     width: 70vw;
 }
 
 h1{
-    /* text-decoration-line: underline; */
     animation: underline .4s alternate infinite linear;
 }
+
+header{
+    background-color: #48e;
+    font-size: 30px;
+    font-weight: 700;
+    color: #fff;
+    text-align: left;
+    padding: 10px;
+}
+
 
 @keyframes underline {
     from{
