@@ -18,6 +18,7 @@ p{
 }
 .post{
     width: 70vw;
+    display: inline-block;
 }
 
 h1{
