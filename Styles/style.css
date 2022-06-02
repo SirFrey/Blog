@@ -7,9 +7,7 @@ p{
 }
 
 .container{
-    display: inline-block;
     border: 5px solid #48e;
-    margin-top: 30px;
 }
 .tagline{
     font-weight: 300;
