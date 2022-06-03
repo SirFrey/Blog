@@ -32,7 +32,16 @@ header{
     padding: 10px;
 }
 
+ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
 
+li{
+    display: inline-block;
+    margin: 0 10px;
+}
 @keyframes underline {
     from{
         text-decoration: underline;
